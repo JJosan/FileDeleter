@@ -12,7 +12,7 @@
 </br>
 -t json
 <h3>folderPath</h3>
--p {Absolute Path (no spaces)}
+-p {Absolute Path}
 </br>
 -p "C:\users\jason\Desktop\folder"
 <h3>date</h3>
@@ -20,4 +20,4 @@
 </br>
 -d 7
 </br>
--d 7/29/2022s
+-d 7/29/2022
